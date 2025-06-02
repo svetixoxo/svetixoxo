@@ -30,9 +30,8 @@
 - `grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB`
 - `nano /etc/default/grub`
 - `GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet brcmfmac.feature_disable=0x82000"`
-
-
-
+- `grub-mkconfig -o /boot/grub/grub.cfg`
+- `reboot`
 
 ### Hyprland konfigurieren
 - `vim .config/hypr/hyprland.conf`
