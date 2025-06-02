@@ -16,7 +16,7 @@
 4. `VIM` als Editor
 
 ### WLAN-Treiber
-- notwendige Pakete: `broadcom-wl`, `linux-headers`, `linux-firmware`, `pahole`
+- notwendige Pakete: `broadcom-wl`, `linux-headers`, `linux-firmware`, `pahole`, `grub`
 - `lsblk` zeigt Laufwerke an
 - USB-Stick mounten mit `mount /dev/sd… /mnt`
 - alle Dateien installieren: `cd /mnt` und dann `pacman -U *.pkg.tar.zst`
