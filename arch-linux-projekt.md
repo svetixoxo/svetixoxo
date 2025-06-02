@@ -22,7 +22,11 @@
 - Pakete installieren: `pacman -U /mnt/*.pkg.tar.zst` oder bspw. `pacman -U /mnt/linux-firmware-*.pkg.tar.zst` (`*` ist Platzhalter)
 
 #### WLAN verbinden
-- `modprobe wl`
+- `modprobe wl`; falls Kernel-Parameter `brcmfmac.feature_disable=0x82000` gesetzt ist:
+```
+modprobe -r wl
+modprobe brcmfmac
+```
 - `nmcli device wifi list`
 - `nmcli device wifi connect "SSID" --ask` bzw. `nmcli device wifi connect "SSID" bssid B:S:S:I:D --ask`
 
