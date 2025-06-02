@@ -41,6 +41,7 @@
 - weitere Kurzbefehle: https://readline.kablamo.org/emacs.html
 - Unix-Beispiele: https://schmutzit.sievers.dev/r/unixporn
 - Hyprland-Wiki: https://wiki.hyprland.org/Useful-Utilities/
+- Packages: https://archlinux.org/packages/?sort=&q=&maintainer=&flagged=
 
 ## Offene Punkte
 - Kompatibilität Raspberry-SSD und Arch Linux
