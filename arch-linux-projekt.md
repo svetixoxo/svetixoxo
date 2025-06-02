@@ -15,6 +15,12 @@
 3. `SYSTEMD` auswählen
 4. `VIM` als Editor
 
+### WLAN-Treiber
+- notwendige Pakete: `broadcom-wl`, `linux-headers`, `linux-firmware`, `pahole`
+- `lsblk` zeigt Laufwerke an
+- USB-Stick mounten mit `mount /dev/sd… /mnt`
+- alle Dateien installieren: `cd /mnt` und dann `pacman -U *.pkg.tar.zst`
+
 ### Hyprland konfigurieren
 - `vim .config/hypr/hyprland.conf
 - `kb_layout = de`
@@ -26,12 +32,6 @@
 - mit `/` und `N` kann man bei `VIM` suchen
 - `i` für Insert-Modus (schreiben)
 - Schließen und Speichern mit `:wq` (write, quit)
-
-## WLAN-Treiber
-- notwendige Pakete: `broadcom-wl`, `linux-headers`, `linux-firmware`, `pahole`
-- `lsblk` zeigt Laufwerke an
-- USB-Stick mounten mit `mount /dev/sd… /mnt`
-- alle Dateien installieren: `cd /mnt` und dann `pacman -U *.pkg.tar.zst`
 
 ### Sonstiges
 - beim `root` deutsches Tastaturlayout: `loadkeys de-latin1` (`-` ist auf `ß`)
