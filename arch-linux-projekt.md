@@ -23,7 +23,7 @@
 
 #### WLAN verbinden
 - `nmcli device wifi list`
-- `nmcli device wifi connect "SSID" --ask`
+- `nmcli device wifi connect "SSID" --ask` bzw. `nmcli device wifi connect "SSID" bssid B:S:S:I:D --ask`
 
 ### Hyprland konfigurieren
 - `vim .config/hypr/hyprland.conf
