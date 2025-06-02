@@ -26,7 +26,7 @@
 - `nmcli device wifi connect "SSID" --ask` bzw. `nmcli device wifi connect "SSID" bssid B:S:S:I:D --ask`
 
 ### Hyprland konfigurieren
-- `vim .config/hypr/hyprland.conf
+- `vim .config/hypr/hyprland.conf`
 - `kb_layout = de`
 - `$mainMod = SUPER` ändern zu `ALT`
 - bei `exec-once` nur `waybar`
