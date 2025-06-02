@@ -27,6 +27,12 @@
 - `i` für Insert-Modus (schreiben)
 - Schließen und Speichern mit `:wq` (write, quit)
 
+## WLAN-Treiber
+- notwendige Pakete: `broadcom-wl`, `linux-headers`, `linux-firmware`, `pahole`
+- `lsblk` zeigt Laufwerke an
+- USB-Stick mounten mit `mount /dev/sd… /mnt`
+- alle Dateien installieren: `cd /mnt` und dann `pacman -U *.pkg.tar.zst`
+
 ### Sonstiges
 - beim `root` deutsches Tastaturlayout: `loadkeys de-latin1` (`-` ist auf `ß`)
 - Pakete installieren mit `sudo pacman -S`
