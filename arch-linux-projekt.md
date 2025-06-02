@@ -19,7 +19,7 @@
 - notwendige Pakete: `broadcom-wl`, `linux-headers`, `linux-firmware`, `pahole`, `grub`
 - `lsblk` zeigt Laufwerke an
 - USB-Stick mounten mit `mount /dev/sd… /mnt`
-- alle Dateien installieren: `cd /mnt` und dann `pacman -U *.pkg.tar.zst`
+- Pakete installieren: `pacman -U /mnt/*.pkg.tar.zst` oder bspw. `pacman -U /mnt/linux-firmware-*.pkg.tar.zst` (`*` ist Platzhalter)
 
 #### WLAN verbinden
 - `nmcli device wifi list`
