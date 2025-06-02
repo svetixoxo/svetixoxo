@@ -28,6 +28,7 @@
 - Schließen und Speichern mit `:wq` (write, quit)
 
 ### Sonstiges
+- beim `root` deutsches Tastaturlayout: `loadkeys de-latin1` (`-` ist auf `ß`)
 - Pakete installieren mit `sudo pacman -S`
 - mehrere Pakete lassen sich bspw. so auf einmal installieren: `sudo pacman -S kitty asciiquarium sl wofi waybar nwg-displays`
 - Benutzer in `wheels`-Gruppe, testen mit `groups` (`root` mit `su` aufrufen)
