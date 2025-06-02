@@ -21,6 +21,10 @@
 - USB-Stick mounten mit `mount /dev/sd… /mnt`
 - alle Dateien installieren: `cd /mnt` und dann `pacman -U *.pkg.tar.zst`
 
+#### WLAN verbinden
+- `nmcli device wifi list`
+- `nmcli device wifi connect "SSID" --ask`
+
 ### Hyprland konfigurieren
 - `vim .config/hypr/hyprland.conf
 - `kb_layout = de`
