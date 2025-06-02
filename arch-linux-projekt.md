@@ -25,6 +25,15 @@
 - `nmcli device wifi list`
 - `nmcli device wifi connect "SSID" --ask` bzw. `nmcli device wifi connect "SSID" bssid B:S:S:I:D --ask`
 
+### GRUB einrichten
+- `pacman -S grub efibootmgr`
+- `grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB`
+- `nano /etc/default/grub`
+- `GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet brcmfmac.feature_disable=0x82000"`
+
+
+
+
 ### Hyprland konfigurieren
 - `vim .config/hypr/hyprland.conf`
 - `kb_layout = de`
