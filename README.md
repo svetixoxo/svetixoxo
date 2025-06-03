@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on: Projects, that run on less than 512 MB of RAM
 - 📫 How to reach me: just don't
 - 😄 Pronouns: svet/lana
-- ⚡ Fun fact: I say "btw, I use Arch" before introducing myself.
+- ⚡ Fun fact: I spend more time configuring my environment than coding
 
 <!---
 svetixoxo/svetixoxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
