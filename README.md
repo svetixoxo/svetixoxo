@@ -6,7 +6,6 @@
 - 😄 Pronouns: svet/lana
 - ⚡ Fun fact: I install Arch twice a week. For fun.
 
-## Setup
 ```ini
 [TEST_ENVIRONMENT]
 Model = Raspberry Pi 5
@@ -36,15 +35,6 @@ SSD   = 2x 2 TB Samsung 980 Pro
 HDD   = 8x 12 TB Seagate Exos x24
 #       RAID 10
 ```
-
-### Test environment: Raspberry Pi 5
-- **OS:** Raspberry Pi OS / Debian 12 (bookworm)
-
-### Workstation: Mac Studio
-- **OS:** macOS
-- **CPU:** 
-
-### 
 
 <!---
 svetixoxo/svetixoxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
