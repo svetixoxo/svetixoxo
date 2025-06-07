@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on: Things that break if you add a GUI
 - 📫 How to reach me: just don't
 - 😄 Pronouns: svet/lana
-- ⚡ Fun fact: I spend more time configuring my environment than coding
+- ⚡ Fun fact: I install Arch twice a week. For fun.
 
 <!---
 svetixoxo/svetixoxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
