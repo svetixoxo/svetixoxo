@@ -24,16 +24,6 @@ CPU   = Intel Core i7-3740QM
 RAM   = 16 GB 1600 MHz DDR3L
 GPU   = NVIDIA GeForce GT 650M 1 GB GDDR5
 SSD   = 1 TB OWC Aura Pro S MB258
-
-[HOMESERVER]
-Model = QNAP TS-873AeU-RP
-OS    = QuTS hero
-CPU   = AMD Ryzen V1500B
-#       2.20 GHz, 4C/8T
-RAM   = 64 GB 3200 MHz DDR4 ECC
-SSD   = 2x 2 TB Samsung 980 Pro
-HDD   = 8x 12 TB Seagate Exos x24
-#       RAID 10
 ```
 
 <!---
