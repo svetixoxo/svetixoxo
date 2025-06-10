@@ -14,16 +14,6 @@ CPU   = Cortex-A76
 #       2.40 GHz, 4C/4T
 RAM   = 16 GB 4267 MHz LPDDR4X
 SSD   = 512 GB Biwin AP425
-
-[LAPTOP]
-Model = Lenovo ThinkPad T14 Gen 2
-OS    = Arch Linux
-#       did I already mention this?
-CPU   = AMD Ryzen 5 PRO 5650U
-#       2.30 GHz, 6C/12T
-RAM   = 16 GB 3200 MHz DDR4
-GPU   = AMD Radeon RX Vega 7
-SSD   = 512 GB Lenovo Performance OPAL
 ```
 
 <!---
