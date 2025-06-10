@@ -16,14 +16,14 @@ RAM   = 16 GB 4267 MHz LPDDR4X
 SSD   = 512 GB Biwin AP425
 
 [LAPTOP]
-Model = MacBookPro10,1
+Model = Lenovo ThinkPad T14 Gen 2
 OS    = Arch Linux
 #       did I already mention this?
-CPU   = Intel Core i7-3740QM
-#       2.70 GHz, 4C/8T
-RAM   = 16 GB 1600 MHz DDR3L
-GPU   = NVIDIA GeForce GT 650M 1 GB GDDR5
-SSD   = 1 TB OWC Aura Pro S MB258
+CPU   = AMD Ryzen 5 PRO 5650U
+#       2.30 GHz, 6C/12T
+RAM   = 16 GB 3200 MHz DDR4
+GPU   = AMD Radeon Vega 7
+SSD   = 512 GB Lenovo Performance OPAL
 ```
 
 <!---
