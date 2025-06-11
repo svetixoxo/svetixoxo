@@ -7,13 +7,14 @@
 - ⚡ Fun fact: I install Arch twice a week. For fun.
 
 ```ini
-[TEST_ENVIRONMENT]
-Model = Raspberry Pi 5
-OS    = Debian 12 (bookworm)
-CPU   = Cortex-A76
-#       2.40 GHz, 4C/4T
-RAM   = 16 GB 4267 MHz LPDDR4X
-SSD   = 512 GB Biwin AP425
+[COMPUTER]
+Model = Lenovo ThinkPad T14 Gen 3
+OS    = Arch Linux x86_64
+CPU   = AMD Ryzen 5 PRO 6650U
+#       2.90 GHz, 6C/12T
+GPU   = AMD Radeon 680M
+RAM   = 16 GB 6400 MHz DDR5
+SSD   = 512 GB Samsung PM9B1
 ```
 
 <!---
