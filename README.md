@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Svetlana
 - 👀 I'm interested in: Raspberry Pi and Open Source projects/apps
-- 🌱 I'm currently learning: Arch Linux
+- 🌱 I'm currently learning: a lot
 - 💞️ I'm looking to collaborate on: Things that break if you add a GUI
 - 📫 How to reach me: please don't
 - 😄 Pronouns: svet/lana
