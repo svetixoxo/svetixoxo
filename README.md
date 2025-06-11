@@ -12,7 +12,8 @@ Model = Lenovo ThinkPad T14 Gen 3
 OS    = Arch Linux x86_64
 CPU   = AMD Ryzen 5 PRO 6650U
 #       2.90 GHz, 6C/12T
-GPU   = AMD Radeon 680M
+GPU   = AMD Radeon 660M/680M
+#       2 GB VRAM
 RAM   = 16 GB 6400 MHz DDR5
 SSD   = 512 GB Samsung PM9B1
 ```
