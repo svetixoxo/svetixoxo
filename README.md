@@ -20,7 +20,7 @@ SSD      = 512 GB Samsung PM9B1
 Ethernet = Realtek RTL8111HN
 Wireless = Qualcomm NFA725A
 #          Wi-Fi 6E, Bluetooth 5.1
-Display  = 14″ WUXGA (1920x1200), 60 Hz, tough
+Display  = 14″ WUXGA (1920x1200), 60 Hz, touch
 #          16:10, IPS, 300 nits, 700:1 contrast
 Battery  = 52.5 Wh Lithium-ion
 ```
