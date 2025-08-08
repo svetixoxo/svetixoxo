@@ -9,9 +9,9 @@
 
 ```ini
 [COMPUTER]
-MODEL    = Lenovo ThinkPad T14 Gen 3
-OS       = Arch Linux x86_64
-CPU      = AMD Ryzen 5 Pro 6650U
+MODEL  =  Lenovo ThinkPad T14 Gen 3
+OS     =  Arch Linux x86_64
+CPU    =  AMD Ryzen 5 Pro 6650U
 ```
 
 <!---
