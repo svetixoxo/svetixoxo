@@ -5,7 +5,11 @@
 - ⚡ Fun fact: I install Arch twice a week. For fun.
 
 ```ini
-[COMPUTER]
+[CUSTOM_BUILD]
+Model  =  AMD Ryzen 7 7800X3D + AMD Radeon RX 9070 XT
+OS     =  CachyOS
+
+[MOBILE]
 MODEL  =  Lenovo ThinkPad T14 (AMD)
 OS     =  Arch Linux x86_64
 ```
