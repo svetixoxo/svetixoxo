@@ -6,7 +6,7 @@
 
 ```ini
 [CUSTOM_BUILD]
-Model  =  AMD Ryzen 7 7800X3D + AMD Radeon RX 9070 XT
+MODEL  =  AMD Ryzen 7 7800X3D + AMD Radeon RX 9070 XT
 OS     =  CachyOS
 
 [MOBILE]
