@@ -2,6 +2,7 @@
 ```
 🐧 arch linux • self-hosting enthusiast
 🌱 exploring open source
-🤷‍♀️ not a programmer • trial and error
+🤷‍♀️ i am a noob and just barely know, what am i doing,
+   but i am curious (trial and error)
 🎮 side experiments • music • gaming • diy projects
 ```
