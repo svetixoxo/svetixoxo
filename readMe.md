@@ -1,8 +1,8 @@
 ### hello there 👋
 ```
+🤷‍♀️ total noob • barely know what I'm doing,
+   but curious enough to try and error
 🐧 arch linux • self-hosting enthusiast
 🌱 exploring open source
-🤷‍♀️ i am a noob and just barely know, what am i doing,
-   but i am curious (trial and error)
 🎮 side experiments • music • gaming • diy projects
 ```
